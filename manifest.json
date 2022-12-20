@@ -1,0 +1,10 @@
+{
+  "name": "AlgoTracker",
+  "description": "This extension saves your CodeWars solutions to GitHub",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "window.html",
+    "default_icon": "icon.png"
+  }
+}
