@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script defer src="content.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <img width="50px" src="logo.svg" alt="AlgoTracker Logo">
+      <h1> AlgoTracker</h1>
+    </header>
+    <hr>
+    <form action="" preventDefault>
+      <label for="problem-name">Problem Name:</label>
+      <input type="text" name="problemName" id="problem-name"></input>
+      <label for="problem-input">Problem Text:</label>
+      <textarea name="problemText" id="problem-input"></textarea>
+      <label for="solution-input">Solution Text:</label>
+      <textarea name="problemSolution" id="solution-input"></textarea>
+      <label for="language">Language:</label>
+      <select name="language" id="language">
+        <option value="python"> Python </option>
+        <option value="javascript"> JavaScript </option>
+        <option value="typescript"> TypeScript </option>
+      </select>
+    </form>
+    <button id="downloadBtn"> Save to Downloads </button>
+    <button id="clearBtn"> Clear </button>
+    <br>
+    <label for="commit-message">Commit Message:</label>
+    <input type="text" placeholder="Commit from AlgoTracker" id="commit-message"></input>
+    <button id="githubBtn"> Save to GitHub </button>
+    <button id="optionsBtn">Go to options</button>
+  </body>
+</html>

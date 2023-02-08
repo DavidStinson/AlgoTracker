@@ -1,10 +1,15 @@
 {
   "name": "AlgoTracker",
-  "description": "This extension saves your CodeWars solutions to GitHub",
-  "version": "1.0",
+  "description": "Quickly add coding solutions from major sites to GitHub via a Chrome Extension!",
+  "version": "0.5",
   "manifest_version": 3,
+  "host_permissions": ["https://api.github.com/*"],
+  "options_page": "options.html",
+  "permissions": [
+    "storage"
+  ],
   "action": {
-    "default_popup": "window.html",
-    "default_icon": "icon.png"
+    "default_popup": "popup.html",
+    "default_icon": "logo.png"
   }
 }

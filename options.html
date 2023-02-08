@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script defer src="options.js"></script>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body >
+    <h1> AlgoTracker</h1>
+    <main id="options-main">
+      <div id="options-settings">
+        <h2> Options </h2>
+        <label for="gh-username">GitHub Username:</label>
+        <input type="text" id="gh-username"></input>
+        <br>
+        <label for="gh-repo">GitHub Repo Name:</label>
+        <input type="text" id="gh-repo"></input>
+        <br>
+        <label for="gh-token">API Token for GitHub:</label>
+        <input type="text" id="gh-token"></input>
+        <br>
+        <button id="saveButton">Save</button>
+        <p id="status"></p>
+      </div>
+      <div id="how-to">
+        <h2> How to Setup </h2>
+        <ol>
+          <li> Create a PRIVATE repo on GitHub to store all your practice problems </li>
+          <li> Add the name of your GitHub Username and the new Private repo to the left and click save </li>
+          <li> Next, you need to create and save a personal access token (this token will not leave your device) </li>
+          <li> To do this, go to your github account settings, click on the "Developer settings", and then go to the "Personal accesss tokens" section</li>
+          <li> Click on "Tokens (classic)", "Generate new token", "Generate new token (classic)"</li>
+          <li> Create a note for your personal access token (we suggest AlgoTracker) </li>
+          <li> Select the Expiration Time Period (we suggest shorter expiration dates (7 days) for improved security) </li>
+          <li> Select the full repo scope and click on "Generate token" </li>
+          <li> Copy the token in the API Token for Github and Save </li>
+          <li> Refresh the page to make sure all the settings have been saved </li>
+        </ol>
+      </div>
+    </main>
+  </body>
+</html>

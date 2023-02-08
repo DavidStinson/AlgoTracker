@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.0" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<path transform="matrix(1.0594 0 0 1.0594 -1.4619 -1.891)" d="m8.375 6.0625c-1.108 0-2 0.892-2 2v44.844c0 1.108 0.892 2 2 2h43.062c1.108 0 2-0.892 2-2v-40.25l-6.625-6.5935h-38.437z" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="1pt"/>
+<path d="m15.914 4.6592v13.242c0 1.353 1.188 2.442 2.665 2.442h17.908c1.477 0 2.666-1.089 2.666-2.442v-13.242l-23.239 2e-4z" fill-rule="evenodd" stroke="#fff" stroke-width="3.125"/>
+<rect x="19.516" y="7.9428" width="6.5871" height="9.0411" rx="1.3992" fill-rule="evenodd" stroke="#fff" stroke-width="1.875"/>
+<path transform="matrix(1.0594 0 0 1.0594 -1.4619 -1.891)" d="m8.375 6.0625c-1.108 0-2 0.892-2 2v44.844c0 1.108 0.892 2 2 2h43.063c1.108 0 2-0.892 2-2v-40.25l-6.626-6.5935h-38.437z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.9499"/>
+<rect x="9.3572" y="24.011" width="41.747" height="28.611" rx="2.0351" fill-opacity=".75" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.875"/>
+<text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" stroke="#fff" fill="#fff" font-size="x-large">AT</text> 
+<metadata>
+<rdf:RDF>
+<cc:Work>
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+<cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+<dc:publisher>
+<cc:Agent rdf:about="http://openclipart.org/">
+<dc:title>Openclipart</dc:title>
+</cc:Agent>
+</dc:publisher>
+<dc:title>ftfilesave</dc:title>
+<dc:date>2011-01-31T02:01:30</dc:date>
+<dc:description>Originally uploaded by Danny Allen for OCAL 0.18 this icon is part of the flat theme</dc:description>
+<dc:source>https://openclipart.org/detail/112549/ftfilesave-by-anonymous</dc:source>
+<dc:creator>
+<cc:Agent>
+<dc:title>Anonymous</dc:title>
+</cc:Agent>
+</dc:creator>
+<dc:subject>
+<rdf:Bag>
+<rdf:li>flat</rdf:li>
+<rdf:li>icon</rdf:li>
+<rdf:li>theme</rdf:li>
+</rdf:Bag>
+</dc:subject>
+</cc:Work>
+<cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+</cc:License>
+</rdf:RDF>
+</metadata>
+</svg>
